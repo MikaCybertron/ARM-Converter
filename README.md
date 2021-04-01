@@ -1,7 +1,5 @@
-This a Offline Tool Assembler and Disassembler Only for ARM64, ARM and THUMB!
-
 # ARM-Converter by Mika Cybertron
-Source ARM Converter with Programming Language C#
+This a Offline Tool Assembler and Disassembler Only for ARM64, ARM and THUMB!
 
 
 # Support
