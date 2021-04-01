@@ -13,3 +13,8 @@ Source ARM Converter with Programming Language C#
 - Mika Cybertron for this Sources & Tool
 - [Keystone-engine.org](https://keystone-engine.org) for Assembler Converter/ARM to HEX Converter
 - [Capstone-engine.org](https://capstone-engine.org) for Disassembler Converter/HEX to ARM Converter
+
+
+# Contact
+* Discord: Mika Cybertron#5240
+* [Mika Cybertron](https://platinmods.com/members/mika-cybertron.43/)
