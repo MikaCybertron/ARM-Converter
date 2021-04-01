@@ -8,7 +8,7 @@ This a Offline Tool Assembler and Disassembler Only for ARM64, ARM and THUMB!
 
 
 # Credits
-- Mika Cybertron for this Sources & Tool
+- [Mika Cybertron](https://platinmods.com/members/mika-cybertron.43/) to creator of this tools
 - [Keystone-engine.org](https://keystone-engine.org) for Assembler Converter/ARM to HEX Converter
 - [Capstone-engine.org](https://capstone-engine.org) for Disassembler Converter/HEX to ARM Converter
 
