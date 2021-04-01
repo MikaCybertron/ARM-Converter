@@ -17,4 +17,7 @@ Source ARM Converter with Programming Language C#
 
 # Contact
 * Discord: Mika Cybertron#5240
-* [Mika Cybertron](https://platinmods.com/members/mika-cybertron.43/)
+* [Mika Cybertron - Platinmods.com](https://platinmods.com/members/mika-cybertron.43/)
+
+
+https://platinmods.com/
